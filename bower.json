@@ -1,0 +1,26 @@
+{
+  "name": "papyros.io",
+  "version": "0.0.0",
+  "authors": [
+    "alishandrukhanpetehani"
+  ],
+  "description": "alishandrukhanpetehani.organi",
+  "main": "index.html",
+  "keywords": [
+    "organi",
+    "pompa of lavatrice",
+  ],
+  "license": "Organic",
+  "homepage": "alishandrukhanpetehani.organi",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.96.1"
+  }
+}

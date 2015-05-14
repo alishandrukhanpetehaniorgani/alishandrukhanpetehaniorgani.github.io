@@ -1,0 +1,16 @@
+# Site settings
+title: alishandrukhanpetehani.organi
+email: alishandrukhanpetehani@organi.org
+description: > # this means to ignore newlines until "baseurl:"
+  alishandrukhanpetehani.organi
+  Free low cost organi
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "alishandrukhanpetehani.organi" # the base hostname & protocol for your site
+github_username:  alishandrukhanpetehaniorgani
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-mentions
+  - octopress-image-tag

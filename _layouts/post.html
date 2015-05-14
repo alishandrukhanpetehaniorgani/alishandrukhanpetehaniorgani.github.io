@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div>
+
+  <br>
+  <h3 class="header">{{ page.title }}</h3>
+  <div class="divider"></div>
+  <p class="light">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+  <br>
+</div>
